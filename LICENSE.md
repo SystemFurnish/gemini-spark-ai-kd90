@@ -1,4 +1,4 @@
-# 
+# Seguro Gemini Spark extensiones. Con UI personalizable y integración de API — optimizado para el máximo rendimiento y eficiencia.
 
 
 
